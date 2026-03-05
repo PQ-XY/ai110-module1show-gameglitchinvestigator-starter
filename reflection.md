@@ -6,15 +6,21 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
-  (for example: "the hints were backwards").
+  (for example: "the secret number kept changing" or "the hints were backwards").
+  1. When I change the difficulty setting on the sidebar, it updates the main page difficulty level, but it didn't change the range on the main page.
+  2. Shoule the hard level be range 1 - 100 and normal level be 1 - 50? Currently, the hard is from 1 - 50 and normal being 1 - 100.
+  3. I run the game twice and it just keeps telling me to go lower even I put 0, which is not even in the range.
 
 ---
 
 ## 2. How did you use AI as a teammate?
 
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
+  Copilot
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
+  I ask AI that "Ok, you are a software engineer teamed with me to debug the code. Now I noticed that there is a logic bug that level hard should be range 1- 100 and level normal should be range 1 -50." AI was able to find the bug and correct it easily.
 - Give one example of an AI suggestion that was incorrect or misleading (including what the AI suggested and how you verified the result).
+  
 
 ---
 
